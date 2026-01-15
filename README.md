@@ -55,12 +55,12 @@ The easiest way to install these dotfiles is using the automated install script:
 
 ```bash
 # Download and run the install script
-curl -fsSL https://raw.githubusercontent.com/kailubyte/dotfiles/main/install/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nsyout/dotfiles/main/install/install.sh | bash
 ```
 
 **Or clone first, then run:**
 ```bash
-git clone https://github.com/kailubyte/dotfiles.git ~/.dotfiles
+git clone https://github.com/nsyout/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install/install.sh
 ```
@@ -99,7 +99,7 @@ brew install git stow
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kailubyte/dotfiles.git ~/.dotfiles
+   git clone https://github.com/nsyout/dotfiles.git ~/.dotfiles
    cd ~/.dotfiles
    ```
 
